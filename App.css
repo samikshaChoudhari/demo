@@ -4,7 +4,7 @@
   justify-content: center; 
   display: flex;
   padding: 10px 0 10px 0;
-  background-image:url(https://img.freepik.com/premium-vector/gps-icon-showing-street-white_99087-61.jpg?w=826);
+  background-image:url(https://img.freepik.com/free-photo/busy-crowded-traffic-jam-road_53876-123104.jpg?w=826&t=st=1702033788~exp=1702034388~hmac=66bf940aee9a051b3e83822bc68aac6a8a7f12b49492962e3b1b087dc26957fc);
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;
@@ -38,9 +38,7 @@ input{
   box-shadow: inset 0px 0px 25px 0px #888;
   border: none;
   outline: none;
-  background-color: #fff;
-  margin-top: 10px;
-  
+  background-color: #fff
 }
 .email{
   height: 25px;
@@ -58,17 +56,15 @@ input{
 .name{
   padding-left: 70px;
   font-size: 20px;
-  
-  
 }
 .second-input{
-  padding-top: 8px;
+  padding-top: 20px;
 }
 button{
   width: 380px;
   height: 50px;
   border-radius: 60px;
-  background-color: #20B2AA;
+  background-color: #696969;
   color: white;
   font-size: 25px;
   border: none;
